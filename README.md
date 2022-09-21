@@ -7,7 +7,7 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/FrogSwapKEK/frogswap-testnet-sdk
+git clone https://github.com/FrogSwap/frogamm-testnet-sdk
 ```
 
 Move into the frogswap-sdk working directory
